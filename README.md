@@ -151,5 +151,5 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 For questions or suggestions, please contact:
-- **Name**: [himaxwell36@gmail.com]
-- **GitHub**: [https://github.com/MaxintokE)
+- **Name**: [otienoaurelia2@gmail.com]
+- **GitHub**: [https://github.com/Aureliaotty)
